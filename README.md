@@ -1,4 +1,12 @@
-### Hi there 👋
+👋 Hi strangers, I wear many hats on any given day. My primary hats are `parent` to four great kids, `partner` to one amazing friend, and `Growth Engineer` 
+[Shopify](https://shopify.com).
+
+## My Values
+- 🧪 Always be learning - fast feedback loops & experiments are accelerants
+- :heart: Empathy - it unlocks discovery, safety, & growth
+- 🤝 Collaboration is vital - _If you want to go fast, go alone. If you want to go far, go together!_
+- 📦 Shipping is the ultimate feature - Continuously add incremental value
+
 
 <!--
 **jclarkin/jclarkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
